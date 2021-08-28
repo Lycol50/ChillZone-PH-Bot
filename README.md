@@ -32,3 +32,16 @@ The bot has simple commands only, Because this bot was for our Server only. But 
 * **Install** all the package by typing `npm i`
 * **Start** the bot with `node .` or `node index.js`
 
+## Bot's License
+This bot **ChillZone PH Bot** is under [**MIT**](https://github.com/Wonyoungieeeeeee/ChillZone-PH-Bot/blob/main/LICENSE) just click the color blue button for more Information
+
+
+Special Thanks to this guys: 
+
+<table>
+  <tr>
+     <td align="center"><a href="https://github.com/Wonyoungieeeeeee"><img src="https://avatars.githubusercontent.com/u/82167755?v=4" width="100px;" alt=""/><br /><sub><b>Wonyoungieeeeeee</b></sub></a><br /><a href="https://github.com/DiscordJSPH/Eunbi-Bot/commits?author=Wonyoungieeeeeee" title="Owner">👑</a></td>
+     
+  </tr>
+  
+</table>
