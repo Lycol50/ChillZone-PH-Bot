@@ -36,7 +36,7 @@ The bot has simple commands only, Because this bot was for our Server only. But 
 This bot **ChillZone PH Bot** is under [**MIT**](https://github.com/Wonyoungieeeeeee/ChillZone-PH-Bot/blob/main/LICENSE) just click the color blue button for more Information
 
 ## Thank You
-Special Thanks to this guys: 
+Special Thanks to this people who helped the bot: 
 
 <table>
   <tr>
