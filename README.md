@@ -16,4 +16,19 @@ The bot has simple commands only, Because this bot was for our Server only. But 
 * ✅ **Verification**: `verify`
 
 
-## 
+## Installation
+
+1. [Download](https://github.com/Wonyoungieeeeeee/ChillZone-PH-Bot/archive/refs/heads/main.zip) or Clone this Repository
+2. Rename the `config.json.example` to `config.json` and change the ( token , prefix )
+
+## Config.json
+```json
+{
+  "token": "BOT TOKEN",
+  "prefix": "BOT PREFIX"
+}
+```
+
+* **Install** all the package by typing `npm i`
+* **Start** the bot with `node .` or `node index.js`
+
