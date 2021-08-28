@@ -40,8 +40,7 @@ Special Thanks to this guys:
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/Wonyoungieeeeeee"><img src="https://avatars.githubusercontent.com/u/82167755?v=4" width="100px;" alt=""/><br /><sub><b>Wonyoungieeeeeee</b></sub></a><br /><a href="https://github.com/DiscordJSPH/Eunbi-Bot/commits?author=Wonyoungieeeeeee" title="Owner" title="Music">🎵 title="Code">💻>👑</a></td>
-
+     <td align="center"><a href="https://github.com/Wonyoungieeeeeee"><img src="https://avatars.githubusercontent.com/u/82167755?v=4" width="100px;" alt=""/><br /><sub><b>Wonyoungieeeeeee</b></sub></a><br /><a href="https://github.com/DiscordJSPH/Eunbi-Bot/commits?author=Wonyoungieeeeeee" title="Owner, Music, Code">👑 🎵 💻</a></td>
   </tr>
   
 </table>
