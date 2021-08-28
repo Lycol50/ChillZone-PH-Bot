@@ -32,6 +32,8 @@ The bot has simple commands only, Because this bot was for our Server only. But 
 * **Install** all the package by typing `npm i`
 * **Start** the bot with `node .` or `node index.js`
 
+## If something happens on the code, I am not responsible for that. Thats all ❤️ for all.
+
 ## Bot's License ❓
 This bot **ChillZone PH Bot** is under [**MIT**](https://github.com/Wonyoungieeeeeee/ChillZone-PH-Bot/blob/main/LICENSE) just click the color blue button for more Information
 
@@ -45,9 +47,6 @@ Special Thanks to this people who helped the bot:
   </tr>
   
 </table>
-
-## Repl.it
-[![Run on Repl.it](https://repl.it/badge/Ryushin06/WelcomerBot)](https://repl.it/Ryushin06/WelcomerBot)
 
 ## Support Me
 > GitHub [@Wonyoungieeeeeee][my github]  
