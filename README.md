@@ -2,6 +2,6 @@
 
 # ChillZone PH Bot
 
->  A Simple Welcomer bot with Music Commands.
+>  A Simple Welcomer bot with Music Commands for our server **ChillZone PH**.
 
 This bot was made in [**Discordjs**](https://discord.js.org) develop and manage by: [**Wonyoungieeeeeee**](https://github.com/Wonyoungieeeeeee)
