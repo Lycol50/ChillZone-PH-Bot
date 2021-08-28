@@ -9,7 +9,7 @@ This bot was made in [**Discordjs**](https://discord.js.org) develop and manage 
 
 ### Commands 🎉
 
-The bot has simple commands only, Because this bot was for our Server only. But i decided to Open Source it
+The bot has simple commands, Because this bot was for our Server only. But i decided to Open Source it
 
 * 🎵 **Music**: `play`
 (__Currently Working on Some commands__)
