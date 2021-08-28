@@ -47,7 +47,7 @@ Special Thanks to this people who helped the bot:
 </table>
 
 ## Repl.it
-[![Run on Repl.it](https://repl.it/badge/Ryushin06/Welcome Bot Test)](https://repl.it/Ryushin06/Welcome Bot Test)
+[![Run on Repl.it](https://repl.it/badge/Ryushin06/WelcomerBot)](https://repl.it/Ryushin06/WelcomerBot)
 
 ## Support Me
 > GitHub [@Wonyoungieeeeeee][my github]  
